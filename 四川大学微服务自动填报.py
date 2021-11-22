@@ -3,7 +3,7 @@ import  re
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
-    'Cookie':'Hm_lvt_48b682d4885d22a90111e46b972e3268=1637418063; UUkey=169b741a5f6334e302746919ff63bf84; eai-sess=h8th8dt001a2piu36s86klfn82; Hm_lpvt_48b682d4885d22a90111e46b972e3268=1637418155'
+    'Cookie':''
 }
 
 def get_post():
